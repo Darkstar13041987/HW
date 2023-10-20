@@ -1,0 +1,15 @@
+C:\Users\mamykin\Desktop\hw\task\bin\Debug\net8.0\task.exe
+C:\Users\mamykin\Desktop\hw\task\bin\Debug\net8.0\task.deps.json
+C:\Users\mamykin\Desktop\hw\task\bin\Debug\net8.0\task.runtimeconfig.json
+C:\Users\mamykin\Desktop\hw\task\bin\Debug\net8.0\task.dll
+C:\Users\mamykin\Desktop\hw\task\bin\Debug\net8.0\task.pdb
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.csproj.AssemblyReference.cache
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.dll
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\refint\task.dll
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.pdb
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+C:\Users\mamykin\Desktop\hw\task\obj\Debug\net8.0\ref\task.dll
